@@ -10,6 +10,13 @@
 }
 .diseno-col {
 	background-color: #DCDCDC;
-	margin: 15px;
 	height: 1000px;
+
 }
+@media (max-width: 767px) {
+    .classmargin{
+		/*width: 80%;*/
+		margin: 0 auto;
+    }
+  }
+
