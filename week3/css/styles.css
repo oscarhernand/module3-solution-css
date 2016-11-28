@@ -1,0 +1,15 @@
+#header-nav{
+	border-radius: 0;
+	border: 0;
+}
+#titulo{
+	margin-left: 10px;
+}
+.nav-margin {
+	margin-top: 16px;
+}
+.diseno-col {
+	background-color: #DCDCDC;
+	margin: 15px;
+	height: 1000px;
+}
